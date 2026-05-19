@@ -1,0 +1,29 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+*.log
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.pyc
+__pycache__/
+.env
+
+# macOS
+.AppleDouble
+.LSOverride
+._*
+
+# Python
+*.egg-info/
+dist/
+build/
+
+# Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
