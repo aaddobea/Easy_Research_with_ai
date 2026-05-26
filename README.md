@@ -614,7 +614,7 @@ Please analyze based on the PDF attachment uploaded. I plan to submit to [specif
 
 We obtained the top 10 models for Creative Writing ability from the public website [arena.ai](https://arena.ai/leaderboard/text/creative-writing) and their specific versions. These results align highly with the actual daily usage choices of our research community. In research scenarios, daily idea interactions and paper writing primarily use Gemini-3-pro/flash; in experimental code writing scenarios, Claude-4.5 series models and the Composer model built into Cursor are used more. Additionally, from practical experience, GPT 5.1 and GPT 5.2 perform relatively poorly, and usage frequency of GPT series models has decreased significantly.
 
-![Model Ranking](images/model-rank.png)
+![Model Ranking](model-rank.png)
 
 ---
 
