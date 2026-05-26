@@ -676,7 +676,7 @@ After Skills are installed to `.claude/skills/`, Cursor will automatically disco
 
 After configuration is complete, you don't need to memorize complex prompts. Simply specify in chat "what you want to do" and "what information you already have". For example: provide research repo path and target conference, state "start a new paper using the ICLR 2026 template, project in the current directory".
 
-![Skills Configuration and Triggering](images/example.png)
+![Skills Configuration and Triggering](example.png)
 
 ## Skills Overview
 
